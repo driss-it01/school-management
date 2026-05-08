@@ -225,7 +225,7 @@ $mail->Password = 'your-gmail-app-password';
 
 ## 👨‍💻 Author
 
-Built while learning **PHP OOP + MySQL + Bootstrap 5** 🚀
+**Driss Zeroual** 
 
 ---
 

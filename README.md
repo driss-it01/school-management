@@ -24,7 +24,8 @@ A complete web-based school management system built with **PHP OOP**, **MySQL**,
 ![Alt Text Description](imgs/img14.png)
 
 
-# [View Bulletin PDF](imgs/bulletin_Hamza%20Slaoui.pdf) 
+ 📄 Bulletin PDF 
+👉 [Click here to view the bulletin](imgs/bulletin_Hamza%20Slaoui.pdf) 
 
 
 ![Alt Text Description](imgs/img15.png) 

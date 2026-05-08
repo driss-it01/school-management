@@ -1,0 +1,10 @@
+echo "uploads/students/*.jpg
+uploads/students/*.jpeg
+uploads/students/*.png
+uploads/students/*.gif
+uploads/temp_*.pdf
+vendor/
+.env" > .gitignore
+
+
+
